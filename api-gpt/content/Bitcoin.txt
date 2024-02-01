@@ -1,0 +1,37 @@
+Bitcoin Explained
+
+Bitcoin is a decentralized digital currency, without a central bank or single 
+
+administrator, that can be sent from user to user on the peer-to-peer bitcoin 
+
+network without the need for intermediaries. Transactions are verified by 
+
+network nodes through cryptography and recorded in a public distributed ledger 
+
+called a blockchain.
+
+Bitcoin was invented in 2008 by an unknown person or group of people using the 
+
+name Satoshi Nakamoto. The currency began use in 2009 when its implementation 
+
+was released as open-source software.
+
+Bitcoins are created as a reward for a process known as mining. They can be 
+
+exchanged for other currencies, products, and services. Bitcoin has been praised 
+
+and criticized. Critics noted its use in illegal transactions, the large amount 
+
+of electricity used by miners, price volatility, and thefts from exchanges. 
+
+Some investors and economists have characterized it as a speculative bubble at 
+
+various times.
+
+Despite its legal and regulatory status being unclear in many jurisdictions, 
+
+Bitcoin has led to the launch of more than a thousand other virtual currencies 
+
+collectively referred to as Altcoins.
+
+
